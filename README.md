@@ -7,7 +7,7 @@
   <a href="https://github.com/ERO-HACK"><img src="https://img.shields.io/github/followers/ERO-HACK?color=%2300ff00&logoColor=00ff00&logo=github&style=for-the-badge"></a>
 </p>
 
-![Tools](https://skillicons.dev/icons?i=python,golang,nodejs,fastapi,postgresql,mongodb,git,docker,cloudflare,linux,vscode,discord)
+![Tools](https://skillicons.dev/icons?i=python,php,go,git,docker,wordpress,linux,vscode,telegram)
 
 ### :fire: My Stats :
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ERO-HACK&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=79ff97&border_color=1f2933&bg_color=0d1117&hide=html,javascript,dockerfile,c)
